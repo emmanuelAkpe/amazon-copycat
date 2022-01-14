@@ -1,0 +1,16 @@
+.scroll-to-top a {
+  color: #fff;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+  .back-top-container {
+    height: 40px;
+    text-align: center;
+    width: 1470px;
+    background-color: #37475a;
+    color: white;
+    margin-right: 15px;
+    bottom: 0;
+   
+  }
+  
